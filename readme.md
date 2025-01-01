@@ -133,7 +133,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Author
 Created by Himanshu Tyagi.
-Feel free to reach out for any questions or suggestions at [your-email@example.com].
+Feel free to reach out for any questions or suggestions at [thimanshu937@gmail.com , himanshu5608@outlook.com].
 
 Acknowledgments
 Bootstrap: For the responsive design.
